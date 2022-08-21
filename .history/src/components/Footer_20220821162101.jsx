@@ -14,15 +14,15 @@ export default function Footer() {
   const contactInfo = [
     {
       icon: <MdEmail />,
-      value: "eyis619@gmail.com",
+      value: "eyis61@gmail.com",
     },
     {
       icon: <MdPhoneInTalk />,
-      value: "+(57) 3125668800",
+      value: "+(480) 555-0103",
     },
     {
       icon: <IoLocationSharp />,
-      value: "5 Tolima Carmen de Apicala, Colombia",
+      value: "1901 Thornridge Cir. Shiloh, Hawaii 81063",
     },
   ];
   const socialIcons = [

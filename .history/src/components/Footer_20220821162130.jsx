@@ -22,7 +22,7 @@ export default function Footer() {
     },
     {
       icon: <IoLocationSharp />,
-      value: "5 Tolima Carmen de Apicala, Colombia",
+      value: "5 Tolima Cir. Shiloh, Hawaii 81063",
     },
   ];
   const socialIcons = [

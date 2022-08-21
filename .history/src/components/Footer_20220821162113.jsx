@@ -18,11 +18,11 @@ export default function Footer() {
     },
     {
       icon: <MdPhoneInTalk />,
-      value: "+(57) 3125668800",
+      value: "+(480) 3125668800",
     },
     {
       icon: <IoLocationSharp />,
-      value: "5 Tolima Carmen de Apicala, Colombia",
+      value: "1901 Thornridge Cir. Shiloh, Hawaii 81063",
     },
   ];
   const socialIcons = [
