@@ -77,44 +77,14 @@ const Section = styled.section`
     marign: 0 2rem;
     display: flex;
     .content {
-      z-index: 10;
-      display: flex;
-      flex-direction: column;
-      gap: 2rem;
-      margin-top: 5rem;
-      padding-right: 2rem;
+      z-index:10;
+      display:flex;
+      flex-direction:column;
+      gap:2rem;
+      margin-top:5rem;
+      padding-right:2rem;
       h1 {
-        color: white;
-        font-size: 5rem;
-      }
-      p {
-        color: #a6a6a6;
-      }
-      .buttons {
-        display: flex;
-        gap: 2rem;
-      }
-      .data {
-        display: flex;
-        gap: 5rem;
-        .dataTab {
-          display: flex;
-          flex-direction: column;
-          gap: 1rem;
-          h2 {
-            color: white;
-            font-size: 2rem;
-          }
-          h5 {
-            text-align: center;
-            color: a6a6a6;
-          }
-        }
-      }
-    }
-    .image {
-      img {
-        height: 40rem;
+        color
       }
     }
   }
