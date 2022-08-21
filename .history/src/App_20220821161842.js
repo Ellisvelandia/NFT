@@ -5,7 +5,7 @@ import CreateAndSell from "./components/CreateAndSell";
 import Choose from "./components/Choose";
 import MarketPlace from "./components/MarketPlace";
 import Subscribe from "./components/Subscribe";
-import Footer from "./components/Footer"
+import Footer
 
 export default function App() {
   return (
