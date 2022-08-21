@@ -12,7 +12,7 @@ export default function App() {
       <Clients />
       <CreateAndSell />
       <Choose />
-      <MarketPlace />
+      <MarketPlace/>
     </div>
   );
 }
