@@ -8,7 +8,6 @@ export default function App() {
     <div>
       <Home />
       <Clients />
-      <CreateAndSell />
     </div>
   );
 }
