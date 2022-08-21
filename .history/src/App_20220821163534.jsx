@@ -6,10 +6,12 @@ import Choose from "./components/Choose";
 import MarketPlace from "./components/MarketPlace";
 import Subscribe from "./components/Subscribe";
 import Footer from "./components/Footer"
-
+import ScrollToTop ""
+ 
 export default function App() {
   return (
     <div>
+      <ScrollToTop />
       <Home />
       <Clients />
       <CreateAndSell />
