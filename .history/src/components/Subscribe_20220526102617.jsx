@@ -8,8 +8,8 @@ export default function Subscribe() {
       <div className="content">
         <h2>Subscribe for Get update every New Offers</h2>
         <p>
-          Exploring NFT subscription models. You may have heard of NFTs. You may
-          even know that NFT stands for Non-fungible token
+          Lorem Ipsum is simply dummy text of the printing and typesetting
+          industry. Lorem Ipsum has been the industry's standard.
         </p>
         <div className="input-container">
           <input type="text" placeholder="Enter Email" />

@@ -8,8 +8,7 @@ export default function Subscribe() {
       <div className="content">
         <h2>Subscribe for Get update every New Offers</h2>
         <p>
-          Exploring NFT subscription models. You may have heard of NFTs. You may
-          even know that NFT stands for Non-fungible token
+        Exploring NFT subscription models. You may have heard of NFTs. You may even know that NFT stands for Non-fungible token
         </p>
         <div className="input-container">
           <input type="text" placeholder="Enter Email" />
