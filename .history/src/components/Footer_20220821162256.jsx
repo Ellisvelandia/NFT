@@ -37,7 +37,7 @@ export default function Footer() {
         <div className="brand">
           <img src={logo} alt="logo" />
         </div>
-        <p className="description">Tolima, Colombia</p>
+        <p className="description">1901 Thornridge Cir. Shiloh, Hawaii 81063</p>
         <div className="social-icons">
           {socialIcons.map((icon) => {
             return <div className="icon">{icon}</div>;
